@@ -11,6 +11,16 @@
 /[Uu]ser[Ss]ettings/
 /Temp
 
+TileVania//[Ll]ibrary/
+TileVania/[Ll]ibrary/
+TileVania//[Tt]emp/
+TileVania//[Oo]bj/
+TileVania//[Bb]uild/
+TileVania//[Bb]uilds/
+TileVania//[Ll]ogs/
+TileVania//[Uu]ser[Ss]ettings/
+TileVania//Temp
+
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
