@@ -3,7 +3,7 @@ guid: 28af59dd96c0e0d4282dcfe29fa52708
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -20,11 +20,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
-  ignoreMasterTextureLimit: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -63,6 +64,8 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -74,6 +77,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -86,6 +90,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -98,6 +103,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -110,6 +116,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -735,38 +742,37 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      SPA_Player_Ginger_7: 371478695
-      SPA_Player_Ginger_3: -425069762
-      SPA_Player_Ginger_15: -1892088116
-      SPA_Player_Ginger_1: -2138224909
-      SPA_Player_Ginger_28: -1492958392
-      SPA_Player_Ginger_19: 532559235
-      SPA_Player_Ginger_23: 494291769
-      SPA_Player_Ginger_2: -1688977396
       SPA_Player_Ginger_0: -492407829
-      SPA_Player_Ginger_14: 1368596135
-      SPA_Player_Ginger_17: 583964247
-      SPA_Player_Ginger_16: 2039121088
-      SPA_Player_Ginger_21: -1582139981
-      SPA_Player_Ginger_9: 1729356965
-      SPA_Player_Ginger_6: -384682798
-      SPA_Player_Ginger_22: -374053798
-      SPA_Player_Ginger_26: 1371216880
-      SPA_Player_Ginger_24: 364040933
-      SPA_Player_Ginger_4: -1658407411
+      SPA_Player_Ginger_1: -2138224909
       SPA_Player_Ginger_10: 1152245607
-      SPA_Player_Ginger_12: -1033871520
-      SPA_Player_Ginger_25: 1655779363
-      SPA_Player_Ginger_18: 1878951835
-      SPA_Player_Ginger_13: 1518294766
-      SPA_Player_Ginger_20: 272958163
-      SPA_Player_Ginger_8: 736899876
-      SPA_Player_Ginger_27: -1326083199
       SPA_Player_Ginger_11: 1659543205
+      SPA_Player_Ginger_12: -1033871520
+      SPA_Player_Ginger_13: 1518294766
+      SPA_Player_Ginger_14: 1368596135
+      SPA_Player_Ginger_15: -1892088116
+      SPA_Player_Ginger_16: 2039121088
+      SPA_Player_Ginger_17: 583964247
+      SPA_Player_Ginger_18: 1878951835
+      SPA_Player_Ginger_19: 532559235
+      SPA_Player_Ginger_2: -1688977396
+      SPA_Player_Ginger_20: 272958163
+      SPA_Player_Ginger_21: -1582139981
+      SPA_Player_Ginger_22: -374053798
+      SPA_Player_Ginger_23: 494291769
+      SPA_Player_Ginger_24: 364040933
+      SPA_Player_Ginger_25: 1655779363
+      SPA_Player_Ginger_26: 1371216880
+      SPA_Player_Ginger_27: -1326083199
+      SPA_Player_Ginger_28: -1492958392
+      SPA_Player_Ginger_3: -425069762
+      SPA_Player_Ginger_4: -1658407411
       SPA_Player_Ginger_5: -1595797006
-  spritePackingTag: 
+      SPA_Player_Ginger_6: -384682798
+      SPA_Player_Ginger_7: 371478695
+      SPA_Player_Ginger_8: 736899876
+      SPA_Player_Ginger_9: 1729356965
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
