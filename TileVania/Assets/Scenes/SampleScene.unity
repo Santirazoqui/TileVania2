@@ -25424,7 +25424,7 @@ GameObject:
   - component: {fileID: 1685551665}
   m_Layer: 11
   m_Name: Goober (Enemy)
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25832,10 +25832,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5837534283708258810, guid: fbb7a074381027440a87143f88748424, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6142495887712395309, guid: fbb7a074381027440a87143f88748424, type: 3}
-      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
