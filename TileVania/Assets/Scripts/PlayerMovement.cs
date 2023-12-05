@@ -101,6 +101,7 @@ public class PlayerMovement : MonoBehaviour
             this.myAnimator.SetTrigger("Dying");
             this.myRigidbody.velocity = deathKick;
             CameraShaker.Instance.ShakeCamera(5f, .1f);
+            FindObjectOfType<GameSession>().ProcessPlayerDeath();
         }
     }
 
